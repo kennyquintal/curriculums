@@ -1,0 +1,49 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: #c3e3fd;
+}
+
+.table-principal {
+    display: table;
+}
+
+.first-row, .second-row {
+    display: table-row;
+} 
+ 
+.myname, .foto-perfil,
+.skills-contact, .content-page {
+    display: table-cell;
+}
+
+img {
+    width: 200px;
+    position: absolute;
+}
+
+.foto-perfil {
+    width: 200px;
+    height: 200px;
+}
+
+.myname, .content-page {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.content-page {
+    background-color: #6eb8f5;
+}
+
+.myname {
+    background-color: #9acef8;
+}
+
+.skills-contact {
+    background-color: #2196f3;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
