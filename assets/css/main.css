@@ -1,5 +1,5 @@
 body {
-    width: 1000px;
+    width: 800px;
     margin: 0 auto;
     background-color: aliceblue;
     align-items: center;
@@ -8,4 +8,17 @@ body {
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.perfiles {
+    display: table;
+}
+
+.heading {
+    display: table-caption;
+}
+
+.cv-perfiles {
+    display: table-cell;
+    padding: 20px;
 }
