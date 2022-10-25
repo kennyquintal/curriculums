@@ -1,0 +1,21 @@
+.texto {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: medium;
+    margin-top:auto;
+}
+
+.titulos {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: lighter;
+    font-weight: 100;
+    margin-top:auto;
+
+}
+
+.texto2 {
+    margin-top: auto;
+    text-align: left;
+   
+}
