@@ -1,0 +1,76 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0%;
+    
+}
+
+.container{
+    justify-content: center;
+    padding: 1vh;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.img-c, img{
+    text-align: center;
+    border-radius:150px;
+    padding-right: 1vh;
+
+}
+
+.name{
+    text-align: center;
+}
+
+.cont-contact{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    column-span: all;
+    margin-bottom: 1vh;
+}
+
+.Educacion{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    margin-bottom: 1vh;
+}
+
+.Habilidades{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    margin-bottom: 1vh;
+}
+
+.Articles{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    margin-bottom: 1vh;
+}
+
+.Exp-prof{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    margin-bottom: 1vh;
+}
+
+.Cert{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: none;
+    list-style: none;
+    margin-bottom: 1vh;
+}
